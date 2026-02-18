@@ -1,9 +1,8 @@
-
 import { Routes, Route } from "react-router-dom";
-import Conversations from "./pages/Conversations";
-import Chat from "./pages/Chat";
-import Call from "./pages/Call";
-import NewConversation from "./pages/NewConversation";
+import Conversations from "./pages/Conversations.jsx";
+import Chat from "./pages/Chat.jsx";
+import Call from "./pages/Call.jsx";
+import NewConversation from "./pages/NewConversation.jsx";
 
 function App() {
   return (
